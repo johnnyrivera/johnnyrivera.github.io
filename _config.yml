@@ -7,9 +7,9 @@ permalink:           pretty
 # Setup
 title:               'Johnny Rivera'
 tagline:             'Online journal'
-description:         'Online jounral of a geek dad, husband.'
-url:                 http://lanyon.getpoole.com
-baseurl:             'johnnyrivera.github.io'
+description:         'Online jounral of a geek dad & husband.'
+url:                 http://johnnyrivera.me
+baseurl:             'http://johnnyrivera.github.com'
 paginate:            2
 
 # About/contact
