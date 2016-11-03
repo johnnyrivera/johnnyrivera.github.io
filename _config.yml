@@ -9,7 +9,7 @@ title:               'Johnny Rivera'
 tagline:             'Online journal'
 description:         'Online jounral of a geek dad & husband.'
 url:                 http://johnnyrivera.me
-baseurl:             ''
+baseurl:             'https://johnnyrivera.github.io'
 paginate:            2
 
 # About/contact
