@@ -10,7 +10,7 @@ tagline:             'Online journal'
 description:         'Online jounral of a geek dad, husband.'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
-paginate:            5
+paginate:            2
 
 # About/contact
 author:
