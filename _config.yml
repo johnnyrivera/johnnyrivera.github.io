@@ -8,8 +8,8 @@ permalink:           pretty
 title:               'Johnny Rivera'
 tagline:             'Online journal'
 description:         'Online jounral of a geek dad & husband.'
-url:                 'https://johnnyrivera.github.io'
-baseurl:             ''
+url:                 https://johnnyrivera.github.io
+baseurl:
 paginate:            2
 
 # About/contact
