@@ -3,36 +3,20 @@ layout: post
 title: Introducing Lanyon
 ---
 
-Welcome to the online journal of Johnny Rivera a freelance web developer from Warwick, RI.
+## Warehouse Associate / Technical Support
+### Safe-Way Electric Motor Co – Providence, RI	April 2014 – Present
 
-### Built on Poole
+#### Shipping & Receiving
+- Schedule local and international shipments via UPS, FedEx, USPS, and multiple freight companies. Created shipment documents and matched orders against packing slips, purchase orders, and inspected for damage and discrepancies. Report and file claims for damaged or missing products.
+- Shipped and received merchandise via forklifts, pallet jacks, hoists, and manual unloading. Stored and labeled merchandise and updated inventory database.
+- Packed and prepped products for shipping in boxes, pallets, or custom built enclosures with average weight of 300lbs to 2tons. Delivered throughout RI, MA, and CT in pickup truck or flatbed with lift gate.
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
+#### Maintenance, Repairs
+- Cleaned and painted electric motors, transformers, and electrical equipment. Performed basic repairs and installation of electrical equipment on motors (encoders, brakes, and controls).
+- Maintained property and grounds. Cleaning of interior, offices, exterior, landscaping, snow removal, scheduled upkeep, and performed basic maintenance repairs; electrical, painting.
+- Basic repairs on tools, warehouse equipment, hoists, forklifts, and serviced company vehicles e.g.: Oil changes, alternators, and preventive maintenance on diesel trucks.
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
-
-### Lanyon features
-
-In addition to the features of Poole, Lanyon adds the following:
-
-* Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/lanyon#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/lanyon#readme) to learn more.
-
-### Browser support
-
-Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+#### Technical Support
+- Maintained a Microsoft Windows 2008 server with SonicWALL. Added/removed users to domain, VPN accounts, and email. Performed automated backups, software updates, and assisted users with hardware and software issues.
+- Updated company website and products. Created landing pages, took photos, and updated products across various online mediums; eBay, Surplus Record, Social Media.
+- Up kept and fixed bugs in inventory system for reliability and accuracy.
